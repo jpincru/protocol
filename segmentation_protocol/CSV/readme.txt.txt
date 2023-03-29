@@ -1,0 +1,1 @@
+CSV files are generated in this folder by the Fiji/ImageJ macro 
