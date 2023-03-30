@@ -1,0 +1,1 @@
+The initial Mask needed for the processing of the time series is generated in this folder. 
