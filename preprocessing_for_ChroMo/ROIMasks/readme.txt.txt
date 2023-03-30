@@ -1,1 +1,0 @@
-ROI masks for the whole time series are generated in this folder.

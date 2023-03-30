@@ -1,1 +1,0 @@
-CSV that are going to be processed by the R scripts are placed in this folder.

@@ -1,1 +1,0 @@
-The Z_projection images that we want to analyze are placed in this folder.
