@@ -1,5 +1,5 @@
 #set the path where your csv files are placed. Example: "C:\\User\\preprocessing_for_ChroMo\\CSV\\CSV_batch\\"
-path <- ()
+path <- ""
 setwd(path)
 
 #input the csv filename obtained from chromo. Example: "AFA123_chromo.csv"
