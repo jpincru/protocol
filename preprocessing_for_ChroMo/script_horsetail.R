@@ -1,15 +1,15 @@
 #set the path where your csv files are placed. Example: "C:\\User\\preprocessing_for_ChroMo\\CSV\\CSV_batch\\"
-path <- ("C:\\Users\\admin\\Desktop\\Proyectos\\1.11 Alfonso\\Loretto\\horsetailtest\\")
+path <- ()
 setwd(path)
 
 #input the csv filename obtained from chromo. Example: "AFA123_chromo.csv"
-chromo_csv_filename <- "test.csv"
+chromo_csv_filename <- ""
 
 #the chosen name for the stop values csv file. Example: AFA123_chromo_stop.csv
-stop_data_filename <- "test_stop.csv"
+stop_data_filename <- ""
 
 #the chose name for the final file with only the horsetail data. Example: AFA123_chromo_horsetail.csv
-output_filename <- "test_horsetail.csv"
+output_filename <- ""
 
 #We read the csv and define the experimental stop speed
 
